@@ -34,3 +34,5 @@ time.sleep(3)
 
 #윈도우 최대화
 driver.maximize_window()
+
+class
